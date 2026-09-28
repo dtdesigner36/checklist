@@ -1,7 +1,7 @@
 {
   "name": "checklist",
   "version": "1.0.0",
-  "description": "Замки / Locks — Zepp OS app for Amazfit Active 3 Premium: presets of locations toggled open/closed",
+  "description": "Чеклист / Checklist — Zepp OS app for Amazfit Active 3 Premium: presets of locations toggled open/closed",
   "main": "app.js",
   "private": true,
   "dependencies": {

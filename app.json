@@ -7,7 +7,7 @@
       "name": "1.0.0"
     },
     "appId": 1129163,
-    "appName": "Locks",
+    "appName": "Checklist",
     "icon": "icon.png",
     "vender": "personal",
     "description": "Какие замки открыты, какие закрыты: пресеты локаций с переключателями"
@@ -38,7 +38,7 @@
             {
               "path": "app-widget/index",
               "icon": "icon.png",
-              "name": "Locks",
+              "name": "Checklist",
               "runtime": {
                 "type": "js"
               }
@@ -60,31 +60,31 @@
   ],
   "i18n": {
     "en-US": {
-      "appName": "Locks",
+      "appName": "Checklist",
       "app-widget": {
         "widgets": [
           {
-            "name": "Locks"
+            "name": "Checklist"
           }
         ]
       }
     },
     "ru-RU": {
-      "appName": "Замки",
+      "appName": "Чеклист",
       "app-widget": {
         "widgets": [
           {
-            "name": "Замки"
+            "name": "Чеклист"
           }
         ]
       }
     },
     "uk-UA": {
-      "appName": "Замки",
+      "appName": "Чекліст",
       "app-widget": {
         "widgets": [
           {
-            "name": "Замки"
+            "name": "Чекліст"
           }
         ]
       }

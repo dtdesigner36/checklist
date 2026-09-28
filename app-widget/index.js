@@ -137,7 +137,7 @@ AppWidget({
       y: top,
       w: w - PAD * 2 - chevronW,
       h: px(42),
-      text: preset ? preset.name : 'Замки',
+      text: preset ? preset.name : 'Чеклист',
       text_size: px(30),
       font: FONT_MEDIUM,
       color: C.text,

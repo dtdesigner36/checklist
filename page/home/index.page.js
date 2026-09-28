@@ -502,7 +502,7 @@ Page(
         text = 'Меняются и в Zepp'
       } else {
         const preset = defaultPreset(data)
-        title.setProperty(prop.TEXT, preset ? preset.name : 'Замки')
+        title.setProperty(prop.TEXT, preset ? preset.name : 'Чеклист')
         if (preset && preset.locations.length) {
           const summary = openSummary(preset.locations)
           text = summary.text
