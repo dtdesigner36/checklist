@@ -1,93 +1,84 @@
-# Чеклист — тексты для магазина Zepp
+ЧЕКЛИСТ — ПОЛЯ ФОРМЫ APP RELEASE (по порядку сверху вниз)
 
-Иконка магазина: `store/icon_240.png` (240×240, круг без полей, прозрачный фон).
-Скриншоты: `store/screenshots/*.png` (360×360, круглые, прозрачный фон).
+App Installation Package → Upload: файл 1129163-Checklist-1.0.0-....zab из этой папки
+payment status → free
+Publish Area → Global
+Service Category → выберите ближайшее: Tools / Efficiency (Инструменты / Продуктивность)
+Supported Devices, Version No. → заполнятся сами после загрузки пакета
+App Classification → Tools (или Efficiency / Lifestyle, если Tools нет)
+App Language → English (уже отмечен) + в поле «Please select other languages» добавьте Russian и Ukrainian
 
----
+============================================================
+English (Default)
+============================================================
+App Name (9/30):
+Checklist
 
-## Русский (ru-RU)
+App Introduction (36/40):
+See at a glance which locks are open
 
-**Название:** Чеклист
-
-**Кратко:**
-Какие замки открыты, а какие закрыты — одним взглядом на часы.
-
-**Подробно:**
-Чеклист помогает не забыть, всё ли закрыто: входная дверь, окна, гараж, калитка.
-
-- Пресеты: «Дом», «Дача», «Офис» — у каждого свой список локаций.
-- На часах: тап по строке переключает «Открыто / Закрыто». Вверху видно, всё ли закрыто.
-- Пресет по умолчанию открывается сразу; сменить его можно прямо на часах.
-- Карточка быстрого доступа: сколько открыто и закрыто в основном пресете.
-- Пресеты и локации редактируются в приложении Zepp на телефоне.
-- Работает без телефона: изменения на часах сохраняются и отправляются, когда телефон снова рядом.
-- Настройки: сила вибрации, звук при переключении, экран не гаснет.
-- Без аккаунтов, без интернета: данные хранятся только на ваших часах и в приложении Zepp.
-
-Чеклист — это отметка состояния для вас. Приложение не управляет умными замками.
-
----
-
-## English (en-US)
-
-**Name:** Checklist
-
-**Short:**
-See at a glance which locks are open and which are closed.
-
-**Details:**
+App Details (578/600):
 Checklist helps you make sure everything is locked: front door, windows, garage, gate.
+- Presets like Home or Office, each with its own list of places.
+- On the watch, tap a place to mark it Open or Closed. The header shows if everything is closed.
+- Pick the default preset right on the watch.
+- Shortcut card with the number of open and closed places.
+- Edit presets and places in the Zepp app on your phone.
+- Works without the phone; changes sync when it is back.
+- Settings: vibration, click sound, keep screen on.
+No accounts, no internet. It does not control smart locks.
 
-- Presets such as "Home", "Cottage" or "Office", each with its own list of places.
-- On the watch, tap a row to switch it between Open and Closed. The header shows whether everything is closed.
-- The default preset opens right away; you can change it on the watch.
-- Shortcut card: how many places are open and closed in the default preset.
-- Presets and places are edited in the Zepp app on your phone.
-- Works without the phone: changes on the watch are kept and sent when the phone is back in range.
-- Settings: vibration strength, click sound, keep the screen on.
-- No accounts, no internet: data stays on your watch and in the Zepp app.
+============================================================
+Russian
+============================================================
+App Name (7/30):
+Чеклист
 
-Checklist is a status list for you; it does not control smart locks.
+App Introduction (36/40):
+Какие замки открыты — одним взглядом
 
----
+App Details (576/600):
+Чеклист помогает не забыть, всё ли закрыто: входная дверь, окна, гараж, калитка.
+- Пресеты «Дом», «Офис» и другие, у каждого свой список мест.
+- На часах тап по месту отмечает «Открыто» или «Закрыто». Вверху видно, всё ли закрыто.
+- Пресет по умолчанию выбирается прямо на часах.
+- Карточка быстрого доступа: сколько открыто и закрыто.
+- Пресеты и места редактируются в приложении Zepp на телефоне.
+- Работает без телефона, изменения синхронизируются, когда он рядом.
+- Настройки: вибрация, звук щелчка, экран не гаснет.
+Без аккаунтов и интернета. Не управляет умными замками.
 
-## Українська (uk-UA)
+============================================================
+Ukrainian
+============================================================
+App Name (7/30):
+Чекліст
 
-**Назва:** Чекліст
+App Introduction (36/40):
+Які замки відчинені — одним поглядом
 
-**Коротко:**
-Які замки відчинені, а які зачинені — одним поглядом на годинник.
-
-**Докладно:**
+App Details (598/600):
 Чекліст допомагає не забути, чи все зачинено: вхідні двері, вікна, гараж, хвіртка.
+- Пресети «Дім», «Офіс» та інші, у кожного свій список місць.
+- На годиннику тап по місцю позначає «Відчинено» або «Зачинено». Угорі видно, чи все зачинено.
+- Пресет за замовчуванням обирається просто на годиннику.
+- Картка швидкого доступу: скільки відчинено й зачинено.
+- Пресети й місця редагуються в застосунку Zepp на телефоні.
+- Працює без телефона, зміни синхронізуються, коли він поруч.
+- Налаштування: вібрація, звук клацання, екран не гасне.
+Без облікових записів та інтернету. Не керує розумними замками.
 
-- Пресети: «Дім», «Дача», «Офіс» — у кожного свій список локацій.
-- На годиннику: тап по рядку перемикає «Відчинено / Зачинено». Угорі видно, чи все зачинено.
-- Пресет за замовчуванням відкривається одразу; змінити його можна просто на годиннику.
-- Картка швидкого доступу: скільки відчинено й зачинено в основному пресеті.
-- Пресети й локації редагуються в застосунку Zepp на телефоні.
-- Працює без телефона: зміни на годиннику зберігаються й надсилаються, коли телефон знову поруч.
-- Налаштування: сила вібрації, звук під час перемикання, екран не гасне.
-- Без облікових записів і без інтернету: дані зберігаються лише на вашому годиннику та в застосунку Zepp.
+============================================================
+App Icon → Upload: «Иконка 240.png» из этой папки
 
-Чекліст — це позначка стану для вас. Застосунок не керує розумними замками.
+Privacy Statement (484 симв.):
+Checklist does not collect, share or sell any personal data. Preset and place names, their open/closed state and the app settings are stored only on your watch and in the Zepp app on your phone, which exchange them directly over Bluetooth. The app does not connect to the internet and uses no accounts, ads, analytics or third-party SDKs. It reads only the screen size of the device to lay out the interface. To delete all data, uninstall the app from the watch and from the Zepp app.
 
----
+Call Permission → None
+Whether the installation package includes SDK → No
+Full music playback → No
 
-## Политика конфиденциальности / Privacy policy
+Features Descriptions (377 симв.):
+Manual status list for locks (does not control smart locks). Presets of places are edited on the app's settings page in Zepp. On the watch: tap a place to mark it open or closed, choose the default preset, and set vibration, click sound and keep-screen-on. A shortcut card shows open/closed counts and opens the app. Watch and Zepp sync over Bluetooth; the watch works offline.
 
-**Русский**
-
-Чеклист не собирает, не передаёт и не продаёт персональные данные.
-Названия пресетов и локаций, их состояние («открыто / закрыто») и настройки приложения хранятся только на ваших часах и в приложении Zepp на вашем телефоне. Часы и телефон обмениваются этими данными напрямую по Bluetooth через приложение Zepp.
-Приложение не подключается к интернету, не использует аккаунты, рекламу, аналитику и сторонние SDK.
-Из данных устройства приложение читает только размер экрана, чтобы правильно разместить интерфейс.
-Чтобы удалить все данные, удалите приложение с часов и из приложения Zepp.
-
-**English**
-
-Checklist does not collect, share or sell personal data.
-Preset and place names, their state (open / closed) and the app settings are stored only on your watch and in the Zepp app on your phone. The watch and the phone exchange this data directly over Bluetooth through the Zepp app.
-The app does not connect to the internet and uses no accounts, ads, analytics or third-party SDKs.
-From the device it reads only the screen size, to lay out the interface.
-To delete all data, uninstall the app from the watch and from the Zepp app.
+Work Statement → галочка уже стоит → Submit for Approval
